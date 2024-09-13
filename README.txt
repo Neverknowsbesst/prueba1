@@ -21,7 +21,7 @@
     
     agregar variable de entorno antes de ejecutar:
     
-    export USUARIOS_PATH="/ruta/al/archivo/BD.txt"
+    export BD_PATH="/ruta/al/archivo/BD.txt"
 
 
 
